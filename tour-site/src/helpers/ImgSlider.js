@@ -73,6 +73,8 @@ const ImgSlider = () => {
                     : <button style={styles.btn} onClick={clickLeft}> <img style={styles.btnImg} src={images[currentImage - 1]} alt={imgAlts[currentImage - 1]} /> <strong style={styles.strong}>{'<'}</strong> </button>
                     }
 
+                    <p style={styles.count}>{currentImage + 1}/10</p>
+
                     {/* Checking to see if it's the last one */}
                     {
                     (currentImage + 1 === 10)
@@ -94,6 +96,7 @@ const styles = {
         // height: "auto",
         maxWidth: "100%",
         maxHeight: "100%",
+        border: "1px solid #002868"
 
     },
     div:{
@@ -134,9 +137,17 @@ const styles = {
         padding: "10px 10px 0px 10px",
         border: "2px solid white",
         cursor: "pointer",
+        borderRadius: "15%"
     },
     strong:{
         fontSize: "20px"
+    },
+    count:{
+        padding: "0px 5px",
+        textAlign: "center",
+        color: "#002868",
+        fontWeight: "bolder",
+        paddingTop: "23px"
     }
     
 }

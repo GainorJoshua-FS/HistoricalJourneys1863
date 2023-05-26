@@ -26,7 +26,7 @@ function AdditionalDetails() {
 
             <p>
                 <strong>Gratuity: </strong>
-                Our guides have over 20 years of experience, involvement in living history, reenacting, touring and public speaking, we strive to provide our valued guest with the best tour possible. Therefore, if our guide meets or exceeds your expectations of what you learned and were entertained, gratuities are welcome.
+                If our guide meets or exceeds your expectations of what you learned and were entertained, gratuities will be accepted and appreciated.
             </p>
 
             <p>

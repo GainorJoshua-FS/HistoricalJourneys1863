@@ -7,7 +7,7 @@ function Tours() {
             <h2>Four Walking Tours</h2>
 
             <TourHelper
-                tour="President Tour"
+                tour="Not the Same Old Town Tour"
                 time="90-minute tour: "
                 desc="Civilian stories of compassion, love, and humor during and after the battle. Stories as: little Charles asks for his candy back, the “safest place” in town, polite and courteous rebels, her “Sweetheart” is found, and more eye-witness stories."
             />
@@ -56,8 +56,3 @@ function Tours() {
 }
 
 export default Tours
-
-const styles = {
-
-}
-
