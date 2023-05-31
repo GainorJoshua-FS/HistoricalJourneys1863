@@ -39,7 +39,7 @@ function TheGuides() {
                     />
                 </div>
                 <p>
-                    <strong>Amanda Collins:</strong> Amanda has participated at historical events, conducted tours, former board member, and public speaking. Her experience has spanned over 20 years. As a historian, she has many years of studying the Battle of Gettysburg, participating in living history events and reenactments. Amanda has vast knowledge with 19 th century civilian life, and her continuing education compliments her historical journey in life.
+                    <strong>Amanda Collins:</strong> Amanda has participated at historical events, conducted tours, former board member, and public speaking. Her experience has spanned over 20 years. As a historian, she has many years of studying the Battle of Gettysburg, participating in living history events and reenactments. Amanda has vast knowledge with 19th century civilian life, and her continuing education compliments her historical journey in life.
                 </p>
         </section>
     )
