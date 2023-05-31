@@ -1,6 +1,8 @@
 import './App.css';
 // import './App2.scss';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';import AboutUs from './components/AboutUs';
+import { HashRouter, Routes, Route } from 'react-router-dom'
+// import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import AboutUs from './components/AboutUs';
 import Footer from './components/Footer';
 import Header from './components/Header';
 import TheGuides from './components/TheGuides';
@@ -12,7 +14,7 @@ import AlertBanner from './components/AlertBanner';
 function App() {
   return (
     <main style={styles.main}>
-        <Router>
+      <HashRouter>
         <Header />
         <AlertBanner />
           <Routes>
@@ -22,9 +24,9 @@ function App() {
               <Route key="detauls" path='/details' element={<AdditionalDetails/>} />
 
             </Routes>
-        </Router>
         {/* <AboutUs /> */}
         <Footer />
+        </HashRouter>
     </main>
   );
 }
