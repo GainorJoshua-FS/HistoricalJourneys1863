@@ -1,6 +1,7 @@
 import React from 'react'
 import ImgSlider from '../helpers/ImgSlider'
 import MissionStatement from '../helpers/MissionStatement'
+import Camping from './Camping'
 
 function AboutUs() {
     return (
@@ -12,6 +13,7 @@ function AboutUs() {
                 significance and stories behind these structures during this time period. Historical Journeys, we make learning history FUN!
             </p>
             <MissionStatement/>
+            <Camping/>
         </section>
     )
 }

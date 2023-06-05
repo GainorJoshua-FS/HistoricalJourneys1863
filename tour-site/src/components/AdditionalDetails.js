@@ -2,21 +2,21 @@ import React from 'react'
 
 function AdditionalDetails() {
     return (
-        <section>
+        <div>
             <h2>Details</h2>
             <p>
                 <strong>Dress for the Weather: </strong>
-                Comfortable shoes, sunscreen, and water are recommended. Depending on the season, the street temperatures can be very hot or very chilly; appropriate attire for temperature is suggested.
+                Comfortable shoes, sunscreen, and water are recommended. Depending on the season, the street temperatures can be very hot or very chilly; appropriate attire for temperature is suggested. Consult your tour guide for details on the weather forecast of ever-changing weather.
             </p>
 
             <p>
                 <strong>Cancellation Policy: </strong>
-                12 hours before your tour time.
+                Reservation changes require a 24-hour notice.
             </p>
 
             <p>
                 <strong>Payment: </strong>
-                Payments are done before the tour begins. Cash and major credit cards are accepted.
+                Payments upon arrival. Cash and major credit cards are accepted.
             </p>
 
             <p>
@@ -25,16 +25,16 @@ function AdditionalDetails() {
             </p>
 
             <p>
-                <strong>Gratuity: </strong>
-                If our guide meets or exceeds your expectations of what you learned and were entertained, gratuities will be accepted and appreciated.
+                <strong>Contributions: </strong>
+                Your contribution to our cause of historic preservation is greatly appreciated.
             </p>
 
             <p>
-                <strong>Hanidcap Visitors: </strong>
-                We know that our guests have various physical abilities. Yes, we can make all our tours handicap accessible. We will do our best to accommodate your needs.
+                <strong>Special Needs Visitors: </strong>
+                Contact your guide so we can customize a tour that best meet your needs.
             </p>
 
-        </section>
+        </div>
     )
 }
 

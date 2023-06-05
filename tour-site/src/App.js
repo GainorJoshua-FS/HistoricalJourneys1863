@@ -21,7 +21,7 @@ function App() {
               <Route key="home" path='/' element={<AboutUs/>} />
               <Route key="guides" path='/guides' element={<TheGuides/>} />
               <Route key="tours" path='/tours' element={<Tours/>} />
-              <Route key="detauls" path='/details' element={<AdditionalDetails/>} />
+              {/* <Route key="detauls" path='/details' element={<AdditionalDetails/>} /> */}
 
             </Routes>
         {/* <AboutUs /> */}

@@ -14,7 +14,7 @@ function Footer() {
                 </li>
 
                 <li>
-                    <strong>Historian Amanda: </strong>717-880-9589
+                    <strong>Historian Researcher Amanda Collins: </strong>717-880-9589
                 </li>
 
                 <li>

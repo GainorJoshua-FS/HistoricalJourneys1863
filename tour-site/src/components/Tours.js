@@ -1,5 +1,6 @@
 import React from 'react'
 import TourHelper from '../helpers/TourHelper'
+import AdditionalDetails from './AdditionalDetails';
 
 function Tours() {
     return (
@@ -15,19 +16,19 @@ function Tours() {
             <TourHelper
                 tour="No Man's Land Tour"
                 time="90-minute tour: "
-                desc="Why was this area in Gettysburg called No Man's Land? Where was No Man's Land? What significance was No Man's Land to the battle? What were the names of the civilians that lived in the area of No Man's Land?"
+                desc="Why was this area in Gettysburg called No Man's Land? Where was No Man's Land? What significance was the area to the battle and who lived in that part of town?"
             />
 
             <TourHelper
                 tour="If the Walls Could Talk Tour"
                 time="120-minute tour: "
-                desc="See existing buildings and hear true stories of the eye-witness accounts of the civilians and their struggles before, during and the aftermath of the battle. The streets that will be walking are Baltimore Street, the “Square”, Chambersburg Street and Middle Street."
+                desc="Hear true stories of the eye-witness accounts of the civilians and their struggles. As we walk the streets and the “Square,” listen carefully as the walls of the historic buildings on the tour “talk to us!"
             />
 
             <TourHelper
                 tour="Rebels have Arrived Tour"
                 time="120-minute tour: "
-                desc="As the Confederate Army enters town, hear the civilian stories of what they first saw and as they tell about the fears they experienced! Walking York and Chambersburg Streets."
+                desc="Gettysburg civilians from 1863 quotes, “There they were in flesh in blood!” Experience what the arrival of the Confederate army through the civilian perspective."
             />
 
             <article>
@@ -47,10 +48,10 @@ function Tours() {
             <article>
                 <h2>School Groups & Scout Group Pricings</h2>
                 <dl>
-                    <dt><strong>Children & Adults</strong></dt>
-                    <dd>$10</dd>
+                    <p>Contact us for customized pricing to meet your group needs.</p>
                 </dl>
             </article>
+            <AdditionalDetails/>
         </section>
     )
 }

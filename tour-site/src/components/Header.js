@@ -16,12 +16,12 @@ function Header() {
                 </Link>
 
                 <Link style={styles.links} to="/tours">
-                    Tours and Pricings
+                    Details
                 </Link>
 
-                <Link style={styles.links} to="/details">
+                {/* <Link style={styles.links} to="/details">
                     Extra Details
-                </Link>
+                </Link> */}
             </div>
         </header>
     )
