@@ -39,7 +39,7 @@ function TheGuides() {
                     />
                 </div>
                 <p>
-                    <strong>Amanda Collins:</strong> Amanda has participated at historical events, conducted tours, former board member, and public speaking. Her experience has spanned over 20 years. As a historian, she has many years of studying the Battle of Gettysburg, participating in living history events and reenactments. Amanda has vast knowledge with 19th century civilian life, and her continuing education compliments her historical journey in life.
+                    <strong>Amanda Collins | Historical Researcher: </strong> I am a proud homeschool graduate. My extensive studies in various topics in historical research, creative writing, event programming and public speaking enabled me to earn my degree at Mason Dixon Home School. I received my diploma with a college level bachelor’s degree equivalency. My focus was on American history, mainly that of the Civil War and 19th century customs and etiquette. Since I reside in the Gettysburg area, as a historical researcher, I have drilled deep into the Battle and the civilians who played host in 1863. Not only those three days in July, but the preceding weeks that brought both armies to town, and the devastating months that followed. “After twenty years of study, I am eager to share my research and continue my historical journey.”
                 </p>
         </section>
     )
