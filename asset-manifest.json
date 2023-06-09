@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/www.historicaljourneys1863.com/static/css/main.6c1f84e5.css",
-    "main.js": "/www.historicaljourneys1863.com/static/js/main.d91f0a14.js",
-    "static/js/787.95f61a02.chunk.js": "/www.historicaljourneys1863.com/static/js/787.95f61a02.chunk.js",
-    "static/media/Bruce21.JPG": "/www.historicaljourneys1863.com/static/media/Bruce21.de836a5d386a7598674f.JPG",
-    "static/media/Bruce19.JPG": "/www.historicaljourneys1863.com/static/media/Bruce19.b0c7395b40ce02194082.JPG",
-    "static/media/Amanda21st.jpg": "/www.historicaljourneys1863.com/static/media/Amanda21st.b2d97ac935f1dbf98fc0.jpg",
-    "static/media/GettysburgEagleHotel.jpg": "/www.historicaljourneys1863.com/static/media/GettysburgEagleHotel.8cd86967adfef9f16a3b.jpg",
-    "static/media/Amanda19th.jpg": "/www.historicaljourneys1863.com/static/media/Amanda19th.12a8d9c2da0baf230e54.jpg",
-    "static/media/GettysburgJohnBurnsHouse.jpg": "/www.historicaljourneys1863.com/static/media/GettysburgJohnBurnsHouse.dd9df78576ae77e9d7c1.jpg",
-    "static/media/GettysburgWillHouse.jpg": "/www.historicaljourneys1863.com/static/media/GettysburgWillHouse.17ac136b4d9f68220cf4.jpg",
-    "static/media/GettysburgSweeneyTavern.png": "/www.historicaljourneys1863.com/static/media/GettysburgSweeneyTavern.4145ae39d05886db43eb.png",
-    "static/media/GettysburgGatehouse.jpg": "/www.historicaljourneys1863.com/static/media/GettysburgGatehouse.6591bffbff2fbe79de2a.jpg",
-    "static/media/GettysburgStreetScene.jpg": "/www.historicaljourneys1863.com/static/media/GettysburgStreetScene.4a0df754a71710918d27.jpg",
-    "static/media/PicturesWagon.jpg": "/www.historicaljourneys1863.com/static/media/PicturesWagon.9c4bec9a1bd76c6e218e.jpg",
-    "static/media/GainorLogo.jpg": "/www.historicaljourneys1863.com/static/media/GainorLogo.a3dfdff402eee40fbd31.jpg",
-    "static/media/JacobStockHouse.jpg": "/www.historicaljourneys1863.com/static/media/JacobStockHouse.6f5aac146c0fe57a1909.jpg",
-    "index.html": "/www.historicaljourneys1863.com/index.html",
-    "main.6c1f84e5.css.map": "/www.historicaljourneys1863.com/static/css/main.6c1f84e5.css.map",
-    "main.d91f0a14.js.map": "/www.historicaljourneys1863.com/static/js/main.d91f0a14.js.map",
-    "787.95f61a02.chunk.js.map": "/www.historicaljourneys1863.com/static/js/787.95f61a02.chunk.js.map"
+    "main.css": "/static/css/main.6c1f84e5.css",
+    "main.js": "/static/js/main.f3957986.js",
+    "static/js/787.95f61a02.chunk.js": "/static/js/787.95f61a02.chunk.js",
+    "static/media/Bruce21.JPG": "/static/media/Bruce21.de836a5d386a7598674f.JPG",
+    "static/media/Bruce19.JPG": "/static/media/Bruce19.b0c7395b40ce02194082.JPG",
+    "static/media/Amanda21st.jpg": "/static/media/Amanda21st.b2d97ac935f1dbf98fc0.jpg",
+    "static/media/GettysburgEagleHotel.jpg": "/static/media/GettysburgEagleHotel.8cd86967adfef9f16a3b.jpg",
+    "static/media/Amanda19th.jpg": "/static/media/Amanda19th.12a8d9c2da0baf230e54.jpg",
+    "static/media/GettysburgJohnBurnsHouse.jpg": "/static/media/GettysburgJohnBurnsHouse.dd9df78576ae77e9d7c1.jpg",
+    "static/media/GettysburgWillHouse.jpg": "/static/media/GettysburgWillHouse.17ac136b4d9f68220cf4.jpg",
+    "static/media/GettysburgSweeneyTavern.png": "/static/media/GettysburgSweeneyTavern.4145ae39d05886db43eb.png",
+    "static/media/GettysburgGatehouse.jpg": "/static/media/GettysburgGatehouse.6591bffbff2fbe79de2a.jpg",
+    "static/media/GettysburgStreetScene.jpg": "/static/media/GettysburgStreetScene.4a0df754a71710918d27.jpg",
+    "static/media/PicturesWagon.jpg": "/static/media/PicturesWagon.9c4bec9a1bd76c6e218e.jpg",
+    "static/media/GainorLogo.jpg": "/static/media/GainorLogo.a3dfdff402eee40fbd31.jpg",
+    "static/media/JacobStockHouse.jpg": "/static/media/JacobStockHouse.6f5aac146c0fe57a1909.jpg",
+    "index.html": "/index.html",
+    "main.6c1f84e5.css.map": "/static/css/main.6c1f84e5.css.map",
+    "main.f3957986.js.map": "/static/js/main.f3957986.js.map",
+    "787.95f61a02.chunk.js.map": "/static/js/787.95f61a02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c1f84e5.css",
-    "static/js/main.d91f0a14.js"
+    "static/js/main.f3957986.js"
   ]
 }
