@@ -1,4 +1,5 @@
 import React from 'react'
+import jgLogo from '../images/GainorLogo.jpg'
 
 function Footer() {
     return (
@@ -23,6 +24,10 @@ function Footer() {
             </ul>
             <p style={styles.thanks}>Thank you for visiting the Historical Journeys Website</p>
             <p style={styles.small}>Cash and major credit cards accepted.</p>
+            <a style={styles.logoLink} href='https://www.joshgainor.com' target='_blank' rel="noopener noreferrer">
+                <img style={styles.logo} src={jgLogo} alt="Joshua Gainor's Logo for Web Design/Development" />
+                Made by Joshua Gainor
+            </a>
         </footer>
     )
 }
@@ -53,9 +58,23 @@ const styles = {
         fontSize: "12px",
         marginTop: "0px",
         padding: "5px 20%"
-},
+    },
     thanks:{
-        marginBottom: "1px",
-        padding: "5px 20%"
-},
+            marginBottom: "1px",
+            padding: "5px 20%"
+    },
+    logo:{
+            borderRadius: "45%",
+            // float: "right",
+            width: "30px",
+            height: "30px"
+    },
+    logoLink:{
+        float: "right",
+        textDecoration: "none",
+        borderBottom: "3px solid #BF0A30",
+        color: "white",
+        marginRight: "15px",
+        fontSize: "12px"
+    }
 }
