@@ -18,7 +18,7 @@ function Footer() {
                 </li>
 
                 <li>
-                    <strong>Follow us on Facebook: </strong> <a href='linkhere' target="_blank" rel="noopener noreferrer" style={styles.link}>Historical Journeys </a>
+                    <strong>Follow us on Facebook: </strong> <a href='https://www.facebook.com/groups/3346054175626285' target="_blank" rel="noopener noreferrer" style={styles.link}>Historical Journeys </a>
                 </li>
             </ul>
             <p style={styles.thanks}>Thank you for visiting the Historical Journeys Website</p>
