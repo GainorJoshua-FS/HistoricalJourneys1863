@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HistoricalJourneys1863/static/css/main.6c1f84e5.css",
-    "main.js": "/HistoricalJourneys1863/static/js/main.73592658.js",
+    "main.js": "/HistoricalJourneys1863/static/js/main.69be8d57.js",
     "static/js/787.95f61a02.chunk.js": "/HistoricalJourneys1863/static/js/787.95f61a02.chunk.js",
     "static/media/Bruce21.JPG": "/HistoricalJourneys1863/static/media/Bruce21.de836a5d386a7598674f.JPG",
     "static/media/Bruce19.JPG": "/HistoricalJourneys1863/static/media/Bruce19.b0c7395b40ce02194082.JPG",
@@ -17,11 +17,11 @@
     "static/media/JacobStockHouse.jpg": "/HistoricalJourneys1863/static/media/JacobStockHouse.6f5aac146c0fe57a1909.jpg",
     "index.html": "/HistoricalJourneys1863/index.html",
     "main.6c1f84e5.css.map": "/HistoricalJourneys1863/static/css/main.6c1f84e5.css.map",
-    "main.73592658.js.map": "/HistoricalJourneys1863/static/js/main.73592658.js.map",
+    "main.69be8d57.js.map": "/HistoricalJourneys1863/static/js/main.69be8d57.js.map",
     "787.95f61a02.chunk.js.map": "/HistoricalJourneys1863/static/js/787.95f61a02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c1f84e5.css",
-    "static/js/main.73592658.js"
+    "static/js/main.69be8d57.js"
   ]
 }
