@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HistoricalJourneys1863/static/css/main.6c1f84e5.css",
-    "main.js": "/HistoricalJourneys1863/static/js/main.7a896b4d.js",
+    "main.js": "/HistoricalJourneys1863/static/js/main.dc2b63a2.js",
     "static/js/787.95f61a02.chunk.js": "/HistoricalJourneys1863/static/js/787.95f61a02.chunk.js",
     "static/media/Bruce21.JPG": "/HistoricalJourneys1863/static/media/Bruce21.de836a5d386a7598674f.JPG",
     "static/media/Bruce19.JPG": "/HistoricalJourneys1863/static/media/Bruce19.b0c7395b40ce02194082.JPG",
@@ -14,14 +14,15 @@
     "static/media/GettysburgGatehouse.jpg": "/HistoricalJourneys1863/static/media/GettysburgGatehouse.6591bffbff2fbe79de2a.jpg",
     "static/media/GettysburgStreetScene.jpg": "/HistoricalJourneys1863/static/media/GettysburgStreetScene.4a0df754a71710918d27.jpg",
     "static/media/PicturesWagon.jpg": "/HistoricalJourneys1863/static/media/PicturesWagon.9c4bec9a1bd76c6e218e.jpg",
+    "static/media/GainorLogo.jpg": "/HistoricalJourneys1863/static/media/GainorLogo.a3dfdff402eee40fbd31.jpg",
     "static/media/JacobStockHouse.jpg": "/HistoricalJourneys1863/static/media/JacobStockHouse.6f5aac146c0fe57a1909.jpg",
     "index.html": "/HistoricalJourneys1863/index.html",
     "main.6c1f84e5.css.map": "/HistoricalJourneys1863/static/css/main.6c1f84e5.css.map",
-    "main.7a896b4d.js.map": "/HistoricalJourneys1863/static/js/main.7a896b4d.js.map",
+    "main.dc2b63a2.js.map": "/HistoricalJourneys1863/static/js/main.dc2b63a2.js.map",
     "787.95f61a02.chunk.js.map": "/HistoricalJourneys1863/static/js/787.95f61a02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c1f84e5.css",
-    "static/js/main.7a896b4d.js"
+    "static/js/main.dc2b63a2.js"
   ]
 }
